@@ -1,4 +1,4 @@
-### Hi there 👋
+# 你好，我是 Leo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <!--
 **jameslee-7/jameslee-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
