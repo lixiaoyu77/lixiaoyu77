@@ -1,14 +1,20 @@
 # Hello，I'm Leo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-# About Me。
-<table> 
-<tr valign="center"> 🎓 我目前正在攻读我的**计算机科学工程学士学位**。</tr> 
- <tr valign="center">    🌱 我目前正在学习 **Java** 并且对 **Web Development** 也很感兴趣。</tr> 
- <tr valign="center">    🎯 我的目标是为尽可能多的**开源项目**做出贡献。</tr> 
-  <tr valign="center">   ✨ 我喜欢创造不同类型的**内容**。</tr> 
-
-
+# replace contents according to you.
+<table>
+<tr>
+  <td valign="center">
+    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
+    🌱 I am currently learning **Java** and also interested in **Web Development**.
+    🎯 My Goal is to Contribute to as many **open source project** as possible.
+    ✨ I love to create different types of **contents**.
+<td >
+# this is my daily.dev card, you can edit this accordingly
+    <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
+  </td>
+</tr>
 </table>
+
 
 
 <!--
