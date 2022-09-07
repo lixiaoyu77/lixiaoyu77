@@ -8,18 +8,15 @@
     🌱 我目前正在学习 **Java** 并且对 **Web Development** 也很感兴趣。
     🎯 我的目标是为尽可能多的**开源项目**做出贡献。
     ✨ 我喜欢创造不同类型的**内容**。
-<td > 
+  <td > 
 # 这是我的daily.dev卡片，你可以相应地编辑它
     <a href=" https://app.daily.dev/Astrodevil "><img src=" https://api.daily.dev/ devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr " width="300" alt="奥南德先生的开发卡"/></a> 
   </td>
 </tr> 
 </table>
 
+
 <!--
-**jameslee-7/jameslee-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
