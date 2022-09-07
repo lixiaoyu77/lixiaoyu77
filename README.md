@@ -17,7 +17,7 @@
 </table>
 
 
-# replace username with your own or change theme ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jameslee-7&theme=dracula&hide_border=true)
+[GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jameslee-7&theme=dracula&hide_border=true)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
