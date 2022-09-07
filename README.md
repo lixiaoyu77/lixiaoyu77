@@ -2,14 +2,12 @@
 
 # About Me。
 <table> 
-<tr> 
-  <td valign="center"> 
-    🎓 我目前正在攻读我的**计算机科学工程学士学位**。
-    🌱 我目前正在学习 **Java** 并且对 **Web Development** 也很感兴趣。
-    🎯 我的目标是为尽可能多的**开源项目**做出贡献。
-    ✨ 我喜欢创造不同类型的**内容**。
-  </td>
-</tr> 
+<tr valign="center"> 🎓 我目前正在攻读我的**计算机科学工程学士学位**。</tr> 
+ <tr valign="center">    🌱 我目前正在学习 **Java** 并且对 **Web Development** 也很感兴趣。</tr> 
+ <tr valign="center">    🎯 我的目标是为尽可能多的**开源项目**做出贡献。</tr> 
+  <tr valign="center">   ✨ 我喜欢创造不同类型的**内容**。</tr> 
+
+
 </table>
 
 
