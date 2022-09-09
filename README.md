@@ -1,6 +1,6 @@
 ### 你好，欢迎来到我的GitHub!
 
-<img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300'>
+
 
 ![PHP](https://img.shields.io/badge/PHP-%E8%AF%AD%E8%A8%80-blue)
 ![MYSQL](https://img.shields.io/badge/MySQL-%E6%95%B0%E6%8D%AE%E5%BA%93-yellow)
