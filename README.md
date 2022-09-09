@@ -4,9 +4,9 @@
 
 ![PHP](https://img.shields.io/badge/PHP-%E8%AF%AD%E8%A8%80-blue)
 ![MYSQL](https://img.shields.io/badge/MySQL-%E6%95%B0%E6%8D%AE%E5%BA%93-yellow)
-![Laravel](https://img.shields.io/badge/Laravel-%E6%A1%86%E6%9E%B6-orange)
+![Fastadminl](https://img.shields.io/badge/Fastadmin-%E6%A1%86%E6%9E%B6-orange)
 ![ThinkPHP](https://img.shields.io/badge/ThinkPHP-%E6%A1%86%E6%9E%B6-green)
-![Redis](https://img.shields.io/badge/Redis-%E6%95%B0%E6%8D%AE%E5%BA%93-brightgreen)
+![Solidity](https://img.shields.io/badge/Solidity-%E6%95%B0%E6%8D%AE%E5%BA%93-brightgreen)
 ![小程序](https://img.shields.io/badge/%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E5%BC%80%E5%8F%91-green)
 
 - 职业：IT
