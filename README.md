@@ -2,6 +2,7 @@
 
 
 
+## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=#jameslee-7&show_icons= true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#jameslee-7" /> <img width="48%" src="https://github-readme-stats.vercel.app /api?username=#jameslee-7&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#jameslee-7" /> <img width="48%" src="https://github -readme-streak-stats.herokuapp.com/?user=#jameslee-7&theme=highcontrast&hide_border=true" alt="#jameslee-7" /> </p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jameslee-7&theme=dracula&hide_border=true)
 <!--
