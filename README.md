@@ -2,7 +2,7 @@
 
 
 
-## Stats📈
+##My GithHub Stats📈
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jameslee-7&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jameslee-7&theme=dracula&hide_border=true)
