@@ -1,36 +1,29 @@
-### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Leo</a> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### 你好，欢迎来到我的GitHub!
+
+<img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300'>
+
+![PHP](https://img.shields.io/badge/PHP-%E8%AF%AD%E8%A8%80-blue)
+![MYSQL](https://img.shields.io/badge/MySQL-%E6%95%B0%E6%8D%AE%E5%BA%93-yellow)
+![Laravel](https://img.shields.io/badge/Laravel-%E6%A1%86%E6%9E%B6-orange)
+![ThinkPHP](https://img.shields.io/badge/ThinkPHP-%E6%A1%86%E6%9E%B6-green)
+![Redis](https://img.shields.io/badge/Redis-%E6%95%B0%E6%8D%AE%E5%BA%93-brightgreen)
+![小程序](https://img.shields.io/badge/%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E5%BC%80%E5%8F%91-green)
+
+- 职业：IT
+- 个人微信：
+- 个人QQ：
 
 
+#### 📬 个人简历
 
-### Glad to see you here! &nbsp; !
+- 
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+- 
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
-
-  
-
-**Talking about Personal Stuffs:**
+|![Leo's github stats](https://github-readme-stats.vercel.app/api?username=jameslee-7&show_icons=true&locale=en&hide_border=true)|![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameslee-7&locale=en&hide_border=true&layout=compact)|
+|-|-|
 
 
-</br>
+#### 个人站
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jameslee-7
-&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameslee-7
-&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+- 知乎: []()
