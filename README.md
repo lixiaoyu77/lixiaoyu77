@@ -6,8 +6,8 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-%E6%95%B0%E6%8D%AE%E5%BA%93-yellow)
 ![Fastadminl](https://img.shields.io/badge/Fastadmin-%E6%A1%86%E6%9E%B6-orange)
 ![ThinkPHP](https://img.shields.io/badge/ThinkPHP-%E6%A1%86%E6%9E%B6-green)
-![Vue](https://img.shields.io/badge/VUE--%E8%AF%AD%E8%A8%80-green)
-![JS/TS](https://img.shields.io/badge/JS/TS--%E8%AF%AD%E8%A8%80-green)
+![Vue](https://img.shields.io/badge/VUE--%E6%A1%86%E6%9E%B6-green)
+![JS/TS](https://img.shields.io/badge/JS/TS--%E8%AF%AD%E8%A8%80-blue)
 - 职业：IT
 
 
