@@ -14,7 +14,7 @@
 #### 📬 个人简历
 
 
-|![Leo's github stats](https://github-readme-stats.vercel.app/api?username=jameslee-7&show_icons=true&locale=en&hide_border=true)|![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameslee-7&locale=en&hide_border=true&layout=compact)|
+|![Leo's github stats](https://github-readme-stats.vercel.app/api?username=lixiaoyu77&show_icons=true&locale=en&hide_border=true)|![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lixiaoyu77&locale=en&hide_border=true&layout=compact)|
 |-|-|
 
 
