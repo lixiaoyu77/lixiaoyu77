@@ -21,3 +21,5 @@
 #### 个人站
 - 博客: [Leo的个人博客](https://xy77.live/)
 - 知乎: [Block先生](https://www.zhihu.com/people/blake-25-47)
+- Gitbook: [Leo的生活碎片](https://gitbook.xy77.live/)
+
