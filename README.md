@@ -7,12 +7,11 @@
 ![Fastadminl](https://img.shields.io/badge/Fastadmin-%E6%A1%86%E6%9E%B6-orange)
 ![ThinkPHP](https://img.shields.io/badge/ThinkPHP-%E6%A1%86%E6%9E%B6-green)
 ![Vue](https://img.shields.io/badge/VUE--%E6%A1%86%E6%9E%B6-green)
-![JS/TS](https://img.shields.io/badge/JS/TS--%E8%AF%AD%E8%A8%80-blue)
+![Javascript/TS](https://img.shields.io/badge/JS/TS--%E8%AF%AD%E8%A8%80-blue)
 - 职业：IT
 
 
 #### 📬 个人简历
-
 
 |![Leo's github stats](https://github-readme-stats.vercel.app/api?username=lixiaoyu77&show_icons=true&locale=en&hide_border=true)|![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lixiaoyu77&locale=en&hide_border=true&layout=compact)|
 |-|-|
