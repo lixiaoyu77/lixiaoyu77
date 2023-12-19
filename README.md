@@ -1,13 +1,12 @@
 ### 你好，欢迎来到我的GitHub!
 
-
-
+![Vue](https://img.shields.io/badge/VUE--%E6%A1%86%E6%9E%B6-green)
+![React](https://img.shields.io/badge/JS/TS--%E8%AF%AD%E8%A8%80-blue)
+![Javascript](https://img.shields.io/badge/JS/TS--%E8%AF%AD%E8%A8%80-red)
+![Typescript](https://img.shields.io/badge/JS/TS--%E8%AF%AD%E8%A8%80-blue)
 ![PHP](https://img.shields.io/badge/PHP-%E8%AF%AD%E8%A8%80-blue)
 ![MYSQL](https://img.shields.io/badge/MySQL-%E6%95%B0%E6%8D%AE%E5%BA%93-yellow)
-![Fastadminl](https://img.shields.io/badge/Fastadmin-%E6%A1%86%E6%9E%B6-orange)
 ![ThinkPHP](https://img.shields.io/badge/ThinkPHP-%E6%A1%86%E6%9E%B6-green)
-![Vue](https://img.shields.io/badge/VUE--%E6%A1%86%E6%9E%B6-green)
-![Javascript/TS](https://img.shields.io/badge/JS/TS--%E8%AF%AD%E8%A8%80-blue)
 - 职业：IT
 
 
