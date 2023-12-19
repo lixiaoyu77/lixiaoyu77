@@ -28,7 +28,7 @@
 # <a href="http://me.xy77.live/">个人说明书</a>
 - ✨ 博客: [Leo的个人博客](https://xy77.live/)
 - ✨ 知乎: [Block先生](https://www.zhihu.com/people/blake-25-47)
-- 💬 Wechat：**cryptoleo77**，欢迎交流
+- 💬 微信：**cryptoleo77**，欢迎交流
 
 #### GitHub
 |![Leo's github stats](https://github-readme-stats.vercel.app/api?username=lixiaoyu77&show_icons=true&locale=en&hide_border=true)|![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lixiaoyu77&locale=en&hide_border=true&layout=compact)|
