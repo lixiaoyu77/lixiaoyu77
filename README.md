@@ -36,25 +36,12 @@
 # <a href="https://jzq422bol5.feishu.cn/docx/doxcnyogD4POabvLHoa1yoEH9W0">个人说明书</a>
 
 - 🧱 搬砖记录：**滴滴出行，字节跳动，百度**
-- 🚀 前端历险记：https://sunny-117.github.io/blog/
-- 🚀 迷你前端源码库: https://sunny-117.github.io/mini-anything-docs/
-- ⚡️ 自动化专业, 嵌入式单片机设计，电子设计竞赛选手
-- 🔧 <a href="https://www.nowcoder.com/users/363848192">笔经面经</a>
-- 📦️ 纯基础知识沉淀 https://sunny-117.github.io/
-- ✨ [掘金专栏](https://juejin.cn/user/2551305355400797/columns)
-- 💥 视频(会更新 <a href="https://github.com/Sunny-117/js-challenges">js-challenges</a> 题目讲解视频)：<a href="https://space.bilibili.com/447694807" target="_blank">B 站 CodeAc</a>，有条件的可以蹲一下
-- 🎉 你若盛开，清风自来；相约而至，风雨无阻，漫漫岁月，赤子之心
-- 🎉 天下大势，成久必败，败久必成，无论成与败，努力就好，一切随缘
-- 💬 微信：**19811715506**，欢迎交流
+- ✨ 博客: [Leo的个人博客](https://xy77.live/)
+- 🔧 知乎: [Block先生](https://www.zhihu.com/people/blake-25-47)
+- 💬 Wechat：**cryptoleo77**，欢迎交流
 
-
-#### 📬 个人简历
-
+#### GitHub
 |![Leo's github stats](https://github-readme-stats.vercel.app/api?username=lixiaoyu77&show_icons=true&locale=en&hide_border=true)|![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lixiaoyu77&locale=en&hide_border=true&layout=compact)|
 |-|-|
 
-
-#### 个人站
-- 博客: [Leo的个人博客](https://xy77.live/)
-- 知乎: [Block先生](https://www.zhihu.com/people/blake-25-47)
 
