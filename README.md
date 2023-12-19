@@ -1,8 +1,6 @@
-### 你好，欢迎来到我的GitHub!
-
 <p align="center">
 <h2 height="200px" align="center">Leo<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
-<h2 align="center">A builder from CN</h3>
+<h2 align="center">你好，欢迎来到我的GitHub!</h3>
 </p>
 
 <p align="center">
@@ -13,8 +11,8 @@
   <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Express-%33A2?style=flat-square&logo=Express">
-  <img src="https://img.shields.io/badge/-PHP-black?style=flat&logo=php&logoColor=white">
-    <img src="https://img.shields.io/badge/-ThinkPHP-2b6dbf?style=flat&logo=thinkphp5&logoColor=white">
+  <img src="https://img.shields.io/badge/-PHP-2b6dbf?style=flat&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/-ThinkPHP-46b882?style=flat&logo=thinkphp5&logoColor=white">
 </div>
 <p></p>
 <div align="center">
