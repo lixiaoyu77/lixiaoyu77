@@ -1,6 +1,6 @@
 <p align="center">
-<h2 height="200px" align="center">Leo<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
-<h2 align="center">你好，欢迎来到我的GitHub!</h3>
+<h2 height="200px" align="center">Leo,a builder from china</h2>
+<h2 align="center">你好<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">，欢迎来到我的GitHub!</h3>
 </p>
 
 <p align="center">
