@@ -26,7 +26,7 @@
 <br />
 
 # <a href="http://me.xy77.live/">个人说明书</a>
-- ✨ 博客: [Leo的个人博客](https://xy77.live/)
+- ☁️ 博客: [Leo的个人博客](https://xy77.live/)
 - ✨ 知乎: [Block先生](https://www.zhihu.com/people/blake-25-47)
 - 💬 微信：**cryptoleo77**，欢迎交流
 
