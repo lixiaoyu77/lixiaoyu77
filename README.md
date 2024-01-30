@@ -18,7 +18,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
+  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python">
   <img src="https://img.shields.io/badge/-MySQL-33333D?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
 </div>
