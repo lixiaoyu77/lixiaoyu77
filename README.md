@@ -26,7 +26,6 @@
 <br />
 
 # <a href="http://me.xy77.live/">Social</a>
-- ☁️ 博客: [Leo的个人博客](https://xy77.live/)
 - 💬 知乎: [Block先生](https://www.zhihu.com/people/blake-25-47) 
 
 #### GitHub
