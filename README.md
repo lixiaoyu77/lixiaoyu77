@@ -17,7 +17,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python">
   <img src="https://img.shields.io/badge/-PHP-2b6dbf?style=flat&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/-ThinkPHP-46b882?style=flat&logo=thinkphp5&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-33333D?style=flat&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/-Linux-408e43?style=flat&logo=linux&logoColor=white">
